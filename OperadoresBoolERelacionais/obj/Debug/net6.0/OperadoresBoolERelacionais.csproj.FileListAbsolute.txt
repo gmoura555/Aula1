@@ -1,0 +1,15 @@
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadoresBoolERelacionais\bin\Debug\net6.0\OperadoresBoolERelacionais.exe
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadoresBoolERelacionais\bin\Debug\net6.0\OperadoresBoolERelacionais.deps.json
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadoresBoolERelacionais\bin\Debug\net6.0\OperadoresBoolERelacionais.runtimeconfig.json
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadoresBoolERelacionais\bin\Debug\net6.0\OperadoresBoolERelacionais.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadoresBoolERelacionais\bin\Debug\net6.0\OperadoresBoolERelacionais.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadoresBoolERelacionais\obj\Debug\net6.0\OperadoresBoolERelacionais.csproj.AssemblyReference.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadoresBoolERelacionais\obj\Debug\net6.0\OperadoresBoolERelacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadoresBoolERelacionais\obj\Debug\net6.0\OperadoresBoolERelacionais.AssemblyInfoInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadoresBoolERelacionais\obj\Debug\net6.0\OperadoresBoolERelacionais.AssemblyInfo.cs
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadoresBoolERelacionais\obj\Debug\net6.0\OperadoresBoolERelacionais.csproj.CoreCompileInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadoresBoolERelacionais\obj\Debug\net6.0\OperadoresBoolERelacionais.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadoresBoolERelacionais\obj\Debug\net6.0\refint\OperadoresBoolERelacionais.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadoresBoolERelacionais\obj\Debug\net6.0\OperadoresBoolERelacionais.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadoresBoolERelacionais\obj\Debug\net6.0\OperadoresBoolERelacionais.genruntimeconfig.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadoresBoolERelacionais\obj\Debug\net6.0\ref\OperadoresBoolERelacionais.dll

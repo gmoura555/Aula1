@@ -1,0 +1,15 @@
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\HelloWord\bin\Debug\net6.0\HelloWord.exe
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\HelloWord\bin\Debug\net6.0\HelloWord.deps.json
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\HelloWord\bin\Debug\net6.0\HelloWord.runtimeconfig.json
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\HelloWord\bin\Debug\net6.0\HelloWord.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\HelloWord\bin\Debug\net6.0\HelloWord.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\HelloWord\obj\Debug\net6.0\HelloWord.csproj.AssemblyReference.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\HelloWord\obj\Debug\net6.0\HelloWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\HelloWord\obj\Debug\net6.0\HelloWord.AssemblyInfoInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\HelloWord\obj\Debug\net6.0\HelloWord.AssemblyInfo.cs
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\HelloWord\obj\Debug\net6.0\HelloWord.csproj.CoreCompileInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\HelloWord\obj\Debug\net6.0\HelloWord.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\HelloWord\obj\Debug\net6.0\refint\HelloWord.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\HelloWord\obj\Debug\net6.0\HelloWord.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\HelloWord\obj\Debug\net6.0\HelloWord.genruntimeconfig.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\HelloWord\obj\Debug\net6.0\ref\HelloWord.dll

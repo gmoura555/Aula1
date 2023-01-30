@@ -1,0 +1,15 @@
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadorTernario\obj\Debug\net6.0\OperadorTernario.csproj.AssemblyReference.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadorTernario\obj\Debug\net6.0\OperadorTernario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadorTernario\obj\Debug\net6.0\OperadorTernario.AssemblyInfoInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadorTernario\obj\Debug\net6.0\OperadorTernario.AssemblyInfo.cs
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadorTernario\obj\Debug\net6.0\OperadorTernario.csproj.CoreCompileInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadorTernario\bin\Debug\net6.0\OperadorTernario.exe
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadorTernario\bin\Debug\net6.0\OperadorTernario.deps.json
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadorTernario\bin\Debug\net6.0\OperadorTernario.runtimeconfig.json
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadorTernario\bin\Debug\net6.0\OperadorTernario.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadorTernario\bin\Debug\net6.0\OperadorTernario.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadorTernario\obj\Debug\net6.0\OperadorTernario.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadorTernario\obj\Debug\net6.0\refint\OperadorTernario.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadorTernario\obj\Debug\net6.0\OperadorTernario.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadorTernario\obj\Debug\net6.0\OperadorTernario.genruntimeconfig.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\OperadorTernario\obj\Debug\net6.0\ref\OperadorTernario.dll

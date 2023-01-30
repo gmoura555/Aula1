@@ -1,0 +1,15 @@
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\TratamentosData\bin\Debug\net6.0\TratamentosData.exe
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\TratamentosData\bin\Debug\net6.0\TratamentosData.deps.json
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\TratamentosData\bin\Debug\net6.0\TratamentosData.runtimeconfig.json
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\TratamentosData\bin\Debug\net6.0\TratamentosData.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\TratamentosData\bin\Debug\net6.0\TratamentosData.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\TratamentosData\obj\Debug\net6.0\TratamentosData.csproj.AssemblyReference.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\TratamentosData\obj\Debug\net6.0\TratamentosData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\TratamentosData\obj\Debug\net6.0\TratamentosData.AssemblyInfoInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\TratamentosData\obj\Debug\net6.0\TratamentosData.AssemblyInfo.cs
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\TratamentosData\obj\Debug\net6.0\TratamentosData.csproj.CoreCompileInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\TratamentosData\obj\Debug\net6.0\TratamentosData.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\TratamentosData\obj\Debug\net6.0\refint\TratamentosData.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\TratamentosData\obj\Debug\net6.0\TratamentosData.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\TratamentosData\obj\Debug\net6.0\TratamentosData.genruntimeconfig.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\TratamentosData\obj\Debug\net6.0\ref\TratamentosData.dll

@@ -1,0 +1,15 @@
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\StringToFormat\bin\Debug\net6.0\StringToFormat.exe
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\StringToFormat\bin\Debug\net6.0\StringToFormat.deps.json
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\StringToFormat\bin\Debug\net6.0\StringToFormat.runtimeconfig.json
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\StringToFormat\bin\Debug\net6.0\StringToFormat.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\StringToFormat\bin\Debug\net6.0\StringToFormat.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\StringToFormat\obj\Debug\net6.0\StringToFormat.csproj.AssemblyReference.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\StringToFormat\obj\Debug\net6.0\StringToFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\StringToFormat\obj\Debug\net6.0\StringToFormat.AssemblyInfoInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\StringToFormat\obj\Debug\net6.0\StringToFormat.AssemblyInfo.cs
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\StringToFormat\obj\Debug\net6.0\StringToFormat.csproj.CoreCompileInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\StringToFormat\obj\Debug\net6.0\StringToFormat.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\StringToFormat\obj\Debug\net6.0\refint\StringToFormat.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\StringToFormat\obj\Debug\net6.0\StringToFormat.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\StringToFormat\obj\Debug\net6.0\StringToFormat.genruntimeconfig.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula1\StringToFormat\obj\Debug\net6.0\ref\StringToFormat.dll
